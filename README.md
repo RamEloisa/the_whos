@@ -40,7 +40,7 @@ movie.cast
 Devuelve un array con el reparto completo del título.
 ```
 movie = Title.new('tt0088763')
-movie.fullcastcast
+movie.fullcast
 ```
 ### Método plot
 Devuelve la sinopsis del título, se puede pasar como valor el idioma en el que se desee la respuesta, el valor por defecto es en inglés. 
