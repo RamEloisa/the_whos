@@ -1,7 +1,7 @@
 # The Whos
 
 ## Api Key IMDB
-Para poder realisar llamadas se requiere ingresar la clave de la api de IMDB, para octener una clave gratuita tiene que regístrese en el sitio de la API, https://imdb-api.com/Identity/Account/Register, las cuentas gratuitas tienen un límite de 100 consultas por día.
+Para poder realisar llamadas se requiere ingresar la clave de la api de IMDB, para octener una clave gratuita tiene que regístrese en el sitio de la API, [IMDB API](https://imdb-api.com/Identity/Account/Register), las cuentas gratuitas tienen un límite de 100 consultas por día.
 Pará poder utilizar la clave se tiene que pasar el valor en la línea de comandos antes de ejecutar el scrip. 
 
 ## Class Title 
